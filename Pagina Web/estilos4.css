@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 600px;
+	height: 600px;
+	margin: auto 0px;
+	border: 10px solid black;
+
+}
+
+.item{
+	background: rgb(251, 255, 0) ;
+	width: auto;
+	height: 300px;
+	color: black;
+	transform: translate();
+
+}
+
+.container:hover .item{
+
+	transform: translateY(90%);
+
+}

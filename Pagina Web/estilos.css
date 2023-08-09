@@ -1,0 +1,174 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body#QuienesSomos{
+  background-image: url(./Img/Fondo.jpg);
+  font-family: fuentePrueba;
+  font-size: 20px;
+}
+
+@font-face {
+  font-family: fuentePrueba;
+  src: url(./Smooch-Regular.ttf);
+}
+h1 {
+  text-align: center;
+  background-color: black;
+  color: azure;
+  padding: 20px;
+}
+nav ul {
+  background-color: #ff3333;
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
+nav li {
+  display: inline-flex;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  width: 150px;
+}
+nav li:hover {
+  background-color: white;
+}
+
+body#Contacto{
+ 
+  font-family: fuentePrueba2;
+  background-image: url(./Img/23cc4acc8532e98209fcb25fe9ac69db.jpg);
+  font-size: 20px;
+
+  
+}
+h2#Contacto{
+  text-align: center;
+  background-color: #C202EC;
+  color: black;
+  padding: 20px;
+}
+nav#Contacto ul#Contacto {
+  background-color:#C202EC;
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+body#Catalogo{
+ 
+  font-family: fuentePrueba2;
+  font-size: 20px;
+
+  
+}
+
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+
+
+
+body#Sucursales{
+  
+  background-image: url(./Img/);
+  font-family: fuentePrueba2;
+  font-size: 20px;
+
+  
+}
+
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+body#Sucursales{
+  
+  background-image: url(./Img/);
+  font-family: fuentePrueba2;
+  font-size: 20px;
+
+  
+}
+
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+body#Sucursales{
+  
+  background-image: url(./Img/);
+  font-family: fuentePrueba2;
+  font-size: 20px;
+
+  
+}
+
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+h1#Inicio{
+  background-color: black;
+  color: azure;
+}
+nav#Inicio ul#Inicio {
+  background-color: #ff5100;
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
+
+body#Ayuda{
+  
+  background-image: url(./Img/e687e495c9cb423e1a04cc8a0b132dc7.jpg);
+  font-family: fuentePrueba2;
+  font-size: 20px;
+
+  
+}
+
+
+
+@font-face {
+  font-family: fuentePrueba2;
+  src: url(./Blaka-Regular.ttf);
+}
+
+
+h1#Ayuda {
+  text-align: center;
+  background-color: rgb(251, 255, 0);
+  color: black;
+  padding: 20px;
+}
+nav#Ayuda ul#Ayuda {
+  background-color: rgb(251, 255, 0);
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
